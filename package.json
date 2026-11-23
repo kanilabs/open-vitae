@@ -46,7 +46,7 @@
     "html-to-image": "^1.11.13",
     "jszip": "^3.10.1",
     "lowlight": "^3.3.0",
-    "marked": "^18.0.0",
+    "marked": "^18.2.1",
     "pdf-lib": "^1.17.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
